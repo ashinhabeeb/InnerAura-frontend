@@ -1,1 +1,1 @@
-export const serverUrl = "http://localhost:4500"
+export const serverUrl = "https://inneraura-server.onrender.com"
